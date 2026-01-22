@@ -50,10 +50,3 @@ If you use or reference this work, please cite the following article:
   journal={Arab Gulf Journal of Scientific Research},
   year={2022}
 }
-
-
-
-
-
-
-
